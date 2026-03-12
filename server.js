@@ -34,7 +34,7 @@ app.post('/api/webhook', async (req, res) => {
         console.log(`[Webhook] Received idea: ${idea.substring(0, 50)}...`);
 
         const response = await hf.chatCompletion({
-            model: "meta-llama/Llama-3.2-3B-Instruct",
+            model: "Qwen/Qwen2.5-7B-Instruct",
             messages: [
                 {
                     role: "user",
