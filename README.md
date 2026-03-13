@@ -10,12 +10,12 @@ Idea Validator analyzes your startup concepts and returns a structured evaluatio
 
 ### Main Input Screen
 <div align="center">
-  <i>![alt text](image.png)</i>
+  <i><img src="https://github.com/AshikAJ7/idea-validator/blob/main/image.png" alt="Idea Validator" /></i>
 </div>
 
 ### Analysis Results Screen
 <div align="center">
-  <i>![alt text](image-1.png)</i>
+  <i><img src="https://github.com/AshikAJ7/idea-validator/blob/main/image-1.png" alt="Output"</i>
 </div>
 
 ---
